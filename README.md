@@ -1,3 +1,1 @@
-## Ciclos de vida
-
-Explicação de componentDidMount, componentDidUpdate e componentWillUnmont
+## Exercicio Aula 19
